@@ -36,3 +36,11 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+## Abstract
+
+Here is where you give a brief (one paragraph overview of your entire paper). This should include some background/introduction, some methodology, results and conclusions.
+
+## Introduction
+
+Nowadays, the global economy is experiencing a huge recession due to the pandemic. Meanwhile, there is growing concern about the impact of the global economic downturn on mental health. Some studies have shown that lower income is related to mental disorders, while this association has not been found in other studies. To study the relationship between income and mental health, we will build an analysis of the data from the 2017 General Social Survey (GSS) on the Family, which is conducted by stratified sampling. By drawing the bar plot, we can find out if there is any relationship between income and mental health. After that, we can be able to build a linear regression model for these two variables to further examine the association between income and mental health.
+
